@@ -1,0 +1,56 @@
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# mypy cache
+.mypy_cache/
+
+# Environments and secret files
+.env
+.env.*
+*.env
+settings_local.py
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# MacOS
+.DS_Store
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
+
+# Other common ignores
+*.sqlite3
+*.db
+*.sqlite
+*.orig
+
